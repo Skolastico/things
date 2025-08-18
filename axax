@@ -1,0 +1,86 @@
+#EXTM3U
+#EXTINF:-1 group-title="USA",NFL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/USA_Network#/media/Ficheiro:USA_Network_logo_(2016).svg" group-title="USA",USA_West
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WTVJ#/media/File:WTVJ_2023.svg" group-title="USA",NBC_Miami
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00453079be244d74ffef1e8bbfd8b104:d75a81f8e83404cff02f5b6affd0fbb2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wtvj)/master.mpd
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/KNBC#/media/Ficheiro:KNBC_(2011_-_Flat).svg" group-title="USA",NBC4_Los_Angeles
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/WNBC#/media/Ficheiro:WNBC_4_NY.svg" group-title="USA",NBC_New_York
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wnbc)/master.mpd
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_logo#/media/File:NBC_Peacock_1986.svg" group-title="USA",NBC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045ead95e9d2632e390e536ffe5b152:035ae170645d5cc0154ea94235beac5b
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wmaq)/master.mpd
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg" group-title="UK",TNT_Sports_1_UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png" group-title="UK",TNT_Sports_2_UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png" group-title="UK",TNT_Sports_3_UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png" group-title="UK",TNT_Sports_4_UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg" group-title="UK",EuroSports_2_UK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05165a7d627cad792decdb1e7a4e18d3:72122ff50e1fdc072827039b7ca2fac8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/0woud0fpbk/out/v1/19de3da8f2494fc1a1841c41d460b956/cenc.mp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/TSN1.svg" group-title="CA",TSN_1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/TSN2#/media/File:TSN2.svg" group-title="CA",TSN_2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/TSN3.svg" group-title="CA",TSN_3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/TSN4.svg" group-title="CA",TSN_4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TSN5.svg" group-title="CA",TSN_5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/NFL_Network_logo.svg" group-title="USA",NFL_Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a23d3a4fc1747364e0c21a2628c2527:a86b3696fd9a4710da046dcac8af0b3c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/grfgykc72o/out/v1/3b99d95f4ec44db180e4016db60d82ea/cenc.mpd
