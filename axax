@@ -3,32 +3,32 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/USA_Network#/media/Ficheiro:USA_Network_logo_(2016).svg" group-title="USA",USA_West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WTVJ#/media/File:WTVJ_2023.svg" group-title="USA",NBC_Miami
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00453079be244d74ffef1e8bbfd8b104:d75a81f8e83404cff02f5b6affd0fbb2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wtvj)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wtvj)/master.mpd
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/KNBC#/media/Ficheiro:KNBC_(2011_-_Flat).svg" group-title="USA",NBC4_Los_Angeles
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/WNBC#/media/Ficheiro:WNBC_4_NY.svg" group-title="USA",NBC_New_York
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wnbc)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(wnbc)/master.mpd
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NBC_logo#/media/File:NBC_Peacock_1986.svg" group-title="USA",NBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045ead95e9d2632e390e536ffe5b152:035ae170645d5cc0154ea94235beac5b
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wmaq)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(wmaq)/master.mpd
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=jpg" group-title="UK",TNT_Sports_1_UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -359,3 +359,4 @@ http://user.scalecdn.co:8080/Marky0416/2c1744538b/807
 http://user.scalecdn.co:8080/Marky0416/2c1744538b/806
 #EXTINF:-1 tvg-id="" tvg-name="PT ZAP Viva HD" tvg-logo="" group-title="'PT",PT ZAP Viva HD (PORTUGAL)
 http://user.scalecdn.co:8080/Marky0416/2c1744538b/805
+
