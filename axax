@@ -3,6 +3,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="USA",NFL Redzone tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-k7n1033lyemsa7rz.jpg"
+http://user.scalecdn.co:8080/Marky0416/2c1744538b/3671
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/USA_Network#/media/Ficheiro:USA_Network_logo_(2016).svg" group-title="USA",USA_West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -359,6 +361,7 @@ http://user.scalecdn.co:8080/Marky0416/2c1744538b/807
 http://user.scalecdn.co:8080/Marky0416/2c1744538b/806
 #EXTINF:-1 tvg-id="" tvg-name="PT ZAP Viva HD" tvg-logo="" group-title="'PT",PT ZAP Viva HD (PORTUGAL)
 http://user.scalecdn.co:8080/Marky0416/2c1744538b/805
+
 
 
 
