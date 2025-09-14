@@ -4,8 +4,6 @@
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
-#EXTINF:-1 group-title="USA",NFL Redzone tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-k7n1033lyemsa7rz.jpg",NFL REDZONE
-http://user.scalecdn.co:8080/Marky0416/2c1744538b/3671
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/USA_Network#/media/Ficheiro:USA_Network_logo_(2016).svg" group-title="USA",USA_West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
@@ -87,6 +85,9 @@ https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/o
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/grfgykc72o/out/v1/3b99d95f4ec44db180e4016db60d82ea/cenc.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="" group-title="USA",NFL REDZONE
+http://user.scalecdn.co:8080/Marky0416/2c1744538b/3671
 #EXTINF:-1 tvg-id="" tvg-name="PT 24 KITCHEN HD" tvg-logo="https://nos.pt/particulares/passatempos/PublishingImages/24kitchen/logo/large.jpg" group-title="'PT",PT 24 KITCHEN HD (PORTUGAL)
 http://user.scalecdn.co:8080/Marky0416/2c1744538b/966
 #EXTINF:-1 tvg-id="" tvg-name="PT A BOLA TV" tvg-logo="" group-title="'PT",PT A BOLA TV (PORTUGAL)
@@ -361,6 +362,7 @@ http://user.scalecdn.co:8080/Marky0416/2c1744538b/807
 http://user.scalecdn.co:8080/Marky0416/2c1744538b/806
 #EXTINF:-1 tvg-id="" tvg-name="PT ZAP Viva HD" tvg-logo="" group-title="'PT",PT ZAP Viva HD (PORTUGAL)
 http://user.scalecdn.co:8080/Marky0416/2c1744538b/805
+
 
 
 
